@@ -8,7 +8,7 @@ time.
 
 ## Installation
 
-Use [pathogen][] or [vundle][]. Don't like that, well, just copy and paste the
+Use [pathogen][] or [vundle][]. Don't like that? Well, just copy and paste the
 following into your vimrc. It is effectively the same thing as using this
 plugin.
 
@@ -34,13 +34,6 @@ inoremap ( 9
 inoremap 0 )
 inoremap ) 0
 ```
-
-## Donate
-
-I know this project is trivial but if you like it or any of my [other
-projects][] please send me some BTC.
-
-    16QAD8aVDkQYqT8WehSQtfQp1xRjbwxK3Q
 
 ## License
 
