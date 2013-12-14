@@ -1,0 +1,20 @@
+*swapnumbers.txt*  "Fix" the line of numbers on your keyboard
+
+Author:  Ryan McGowan <ryan@ryanmcg.com>
+License: Same terms as Vim itself (see |license|)
+
+This plugin is only available if 'compatible' is not set.
+
+INTRODUCTION                                    *swapnumbers*
+
+Swap numbers on your keyboard with the symbol they correspond to when shifted
+in insert mode. This can make your coding a bit easier as you will not have to
+use hold shift to use symbols so common in programming languages.
+
+ABOUT                                           *swapnumbers-about*
+
+Grab the latest version or report a bug on GitHub:
+
+https://github.com/RyanMcG/vim-swapnumbers
+
+ vim:tw=78:et:ft=help:norl:
