@@ -1,6 +1,7 @@
 # vim-swapnumbers
 
-Swap the numbers on your keyboard with symbols in insert mode!
+Swap the numbers on your keyboard with symbols in insert, command and select
+mode!
 
 Programming languages require typing symbols far more often than numbers so we
 might as well save ourselves from having to hold down that shift key all the
@@ -8,32 +9,7 @@ time.
 
 ## Installation
 
-Use [pathogen][] or [vundle][]. Don't like that? Well, just copy and paste the
-following into your vimrc. It is effectively the same thing as using this
-plugin.
-
-```vim
-inoremap 1 !
-inoremap ! 1
-inoremap 2 @
-inoremap @ 2
-inoremap 3 #
-inoremap # 3
-inoremap 4 $
-inoremap $ 4
-inoremap 5 %
-inoremap % 5
-inoremap 6 ^
-inoremap ^ 6
-inoremap 7 &
-inoremap & 7
-inoremap 8 *
-inoremap * 8
-inoremap 9 (
-inoremap ( 9
-inoremap 0 )
-inoremap ) 0
-```
+Use [pathogen][] or [vundle][].
 
 ## License
 
